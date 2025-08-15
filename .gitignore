@@ -43,3 +43,5 @@ mvnw
 *.cmd
 .mvn/
 src/test/
+cab-book-driver/src/test/
+cab-book-user/src/test/
