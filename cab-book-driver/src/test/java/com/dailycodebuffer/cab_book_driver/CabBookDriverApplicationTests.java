@@ -1,10 +1,10 @@
-package com.dailycodebuffer.cab_book_user;
+package com.dailycodebuffer.cab_book_driver;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class CabBookUserApplicationTests {
+class CabBookDriverApplicationTests {
 
 	@Test
 	void contextLoads() {
